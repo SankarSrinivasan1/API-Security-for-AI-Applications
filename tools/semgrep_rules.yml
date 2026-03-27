@@ -1,0 +1,5 @@
+rules:
+  - id: hardcoded-api-key
+    pattern: API_KEY = "..."
+    message: Hardcoded API key detected
+    severity: ERROR
