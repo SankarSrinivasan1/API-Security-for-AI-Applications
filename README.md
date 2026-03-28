@@ -1,7 +1,7 @@
 # GitHub companion repository for book titled:
 ![API Security for AI Applications](https://github.com/SankarSrinivasan1/API-Security-for-AI-Applications/blob/main/images/file_00000000a2e0720b9c687ca337e6a239.png)
 
-# API Security for AI Applications: A Practical Handbook
+# API Security for AI Applications : Practical Defense Strategies for LLMs, Prompt Injections and Data Leakage
 
 > Build secure, production-ready AI APIs without guessing what can go wrong.
 
@@ -11,7 +11,7 @@
 
 This is the official companion repository for the book:
 
-👉 **API Security for AI Applications: A Practical Handbook**  
+👉 **API Security for AI Applications : Practical Defense Strategies for LLMs, Prompt Injections and Data Leakage**  
 (Link coming soon)
 
 This repo gives you **real, working security implementations** for AI-powered APIs.
