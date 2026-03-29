@@ -107,3 +107,10 @@ If this helps you:
 ## ⚖️ License
 
 MIT License — use it freely, just don’t blame us if you ignore the checklist 😄
+
+---
+
+## Warning 
+
+This is for educational purpose. Not a complete product.
+
