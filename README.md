@@ -2,7 +2,7 @@
 ![API Security for AI Applications](https://github.com/SankarSrinivasan1/API-Security-for-AI-Applications/blob/main/images/file_00000000a2e0720b9c687ca337e6a239.png)
 
 ## Buy the book at Amazon and leading online bookstores
-[API Security for AI Applications]([https://www.amazon.com/API-Security-Applications-Practical-Strategies-ebook/dp/B0GXH1FDZ6])
+[API Security for AI Applications](https://www.amazon.com/API-Security-Applications-Practical-Strategies-ebook/dp/B0GXH1FDZ6)
 
 # API Security for AI Applications : Practical Defense Strategies for LLMs, Prompt Injections and Data Leakage
 
